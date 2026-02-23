@@ -5,7 +5,7 @@
 
 ![Submitted](https://img.shields.io/badge/Submitted-19_Jun_2025-blue)
 ![Accepted](https://img.shields.io/badge/Accepted-26_January_2026-green)
-
+![Published](https://img.shields.io/badge/Published-23_February_2026-orange)
 
 
 ## 📖 About The Project
